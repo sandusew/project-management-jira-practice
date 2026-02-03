@@ -6,8 +6,10 @@
 ## Selected Stories
 1. User can register
 2. User can log in
-3. User can view food list
-4. User can add food to cart
+3. User can log out
+4. User can view food list
 
 ## Reason for Selection
-These stories are basic features required for the application to work.
+I selected these four stories for Sprint 1 because they are high-priority, core requirements. 
+User authentication and basic access to the food list are essential for the application to function. 
+Scrum recommends selecting backlog items based on priority, and these features provide a strong foundation for future sprints.
