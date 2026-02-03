@@ -1,0 +1,17 @@
+# Product Backlog
+
+## Epics
+1. User Management
+2. Food Ordering
+
+## User Stories
+
+### User Management
+- User can register
+- User can log in
+- User can log out
+
+### Food Ordering
+- User can view food list
+- User can add food to cart
+- User can place order
